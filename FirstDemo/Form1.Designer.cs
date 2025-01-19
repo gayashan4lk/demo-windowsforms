@@ -80,7 +80,7 @@
             Controls.Add(label1);
             Controls.Add(btnAdd);
             Name = "Names";
-            Text = "Form1";
+            Text = "Names";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
